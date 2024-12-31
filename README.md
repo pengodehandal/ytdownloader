@@ -24,4 +24,5 @@ Sebelum kamu bisa jalanin skrip ini, ada beberapa hal yang harus kamu siapin dul
    ```bash
    git clone https://github.com/pengodehandal/ytdownloader.git
    cd ytdownloader
+   pip install -r requirements.txt
    python3 downloader.py
